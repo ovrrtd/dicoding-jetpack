@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Viewmodel Submission</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Overview</string>
+    <string name="user_score">User Score</string>
+    <string name="fav_movie">Fav Movie</string>
+    <string name="fav_tv">Fav TV Show</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_main">CatalogDb </string>
+    <string name="menu_favorite">Menu Favorite</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
